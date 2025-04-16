@@ -1,0 +1,91 @@
+# github.com llms.txt
+
+> A collection of papers, patents, presentations, and other documentation authored by Mark B. Sigler, serving as a professional scrapbook that chronicles various academic and industry contributions.
+
+- [Patent Application Document](https://github.com/markbsigler/content/blob/master/Patent-Application.pdf): Access and view a patent application document in PDF format.
+- [GitHub DevSecOps Overview](https://github.com/solutions/use-case/devsecops): Promote GitHub's DevSecOps tools for enhancing software security within development workflows.
+- [AI Solutions for Finance](https://github.com/solutions/industry/financial-services): Promote AI-powered solutions for secure financial services and software development on GitHub.
+- [GitHub Blogs Repositories](https://github.com/topics/blogs): Explore and discover public GitHub repositories related to blogs.
+- [GitHub for Nonprofits](https://github.com/solutions/industry/nonprofits): Support nonprofits with exclusive GitHub plans to enhance collaboration and amplify social impact.
+- [GitHub Activity Log](https://github.com/markbsigler/content/activity): Show user activity on GitHub for the content repository.
+- [AI-Powered Software Solutions](https://github.com/solutions): To promote GitHub's AI-powered solutions for software development across various industries and teams.
+- [MarketMaker PDF Document](https://github.com/markbsigler/content/blob/master/20000922-DataZen-Press-MarketMaker.pdf): Access and download the DataZen Press MarketMaker PDF document.
+- [GitHub Enterprise Overview](https://github.com/enterprise): Promote GitHub Enterprise as an AI-driven platform for secure software development and collaboration.
+- [GitHub Code Search Feature](https://github.com/features/code-search): Highlight GitHub's Code Search feature for fast and relevant code retrieval.
+- [AI in Software Development](https://github.com/resources/articles/ai): Explore various applications of AI and machine learning in software development.
+- [Mark B. Sigler's Contributions](https://github.com/markbsigler/content/blob/master/README.md): Showcases academic and professional contributions by Mark B. Sigler in a personal scrapbook format.
+- [Watchers List](https://github.com/markbsigler/content/watchers): Display the list of watchers for a GitHub repository.
+- [Cloud Computing Whitepaper](https://github.com/markbsigler/content/blob/master/Cloud_Computing_Use_Cases_Whitepaper-3_-20100202.pdf): To provide access to a whitepaper discussing cloud computing use cases.
+- [GitHub Videos Repositories](https://github.com/topics/videos): Showcases public repositories related to videos on GitHub.
+- [GitHub Pricing Plans](https://github.com/pricing): This page outlines GitHub's subscription pricing plans and features for individuals and organizations.
+- [GitHub Projects Overview](https://github.com/markbsigler/content/projects): Showcases projects related to the content repository on GitHub.
+- [Ebooks and Whitepapers](https://github.com/resources/whitepapers): Offer industry knowledge through ebooks and whitepapers for informed decisions in software development and AI.
+- [Hybrid Cloud Document](https://github.com/markbsigler/content/blob/master/Sigler-Gartner-HybridCloud.pdf): Access and share a PDF document on hybrid cloud.
+- [Why Choose GitHub](https://github.com/why-github): Promote GitHub as a platform for collaboration, innovation, and secure software development using AI-powered tools.
+- [Whitepapers Repositories](https://github.com/topics/whitepapers): Showcase public GitHub repositories related to whitepapers on various topics.
+- [No Releases Available](https://github.com/markbsigler/content/tags): This page informs users that there are currently no releases for the GitHub repository.
+- [Pull Requests Overview](https://github.com/markbsigler/content/pulls): Facilitate collaboration on code via pull requests.
+- [Mark B. Sigler's Work](https://github.com/markbsigler/content): Showcase papers, patents, and presentations by Mark B. Sigler.
+- [Developer Community Discussions](https://github.com/features/discussions): Facilitate developer community collaboration through discussions, questions, and idea sharing on GitHub.
+- [GitHub for Startups](https://github.com/enterprise/startups): Support early-stage startups with GitHub resources and discounts for scaling their software development.
+- [DoD DevSecOps Keynote](https://github.com/markbsigler/content/blob/master/2019-DoD-DevSecOps-Initiative-Keynote-v1.7.pdf): To share a keynote presentation on the DoD DevSecOps initiative.
+- [GitHub Copilot Promotion](https://github.com/): Promote GitHub's AI-powered development tools and collaboration features for software engineering.
+- [Creative Commons License](https://github.com/markbsigler/content/blob/master/LICENSE): Details the terms of a Creative Commons license for public use of creative work.
+- [Businessweek PDF Document](https://github.com/markbsigler/content/blob/master/19940905-APT-Businessweek.pdf): Share a PDF document from Businessweek related to APT.
+- [GitHub Presentations Repositories](https://github.com/topics/presentations): Showcase public repositories related to presentations on GitHub.
+- [GitHub Copilot for Business](https://github.com/features/copilot/copilot-business): Promote GitHub Copilot for business to enhance developer productivity and operational efficiency.
+- [Software Development Resources](https://github.com/resources/articles): Provide articles and resources related to software development, AI, and security topics.
+- [Healthcare Development Solutions](https://github.com/solutions/industry/healthcare): Promote GitHub as a solution for enhancing healthcare development with AI and improving patient care.
+- [Support Open Source Development](https://github.com/sponsors): Connect sponsors with open source developers to financially support projects and contributions.
+- [Mark B. Sigler's Profile](https://github.com/markbsigler): Showcase the GitHub profile of Mark B. Sigler, highlighting his work in automation and orchestration.
+- [Software Development Resources](https://github.com/resources/articles/software-development): This page offers articles on various software development topics and practices for developers and IT professionals.
+- [Project Security Information](https://github.com/markbsigler/content/security): Inform users about the lack of a security policy for the project.
+- [GitHub Advanced Security](https://github.com/security/advanced-security): Promote GitHub Advanced Security for enhancing application security in software development workflows.
+- [GitHub Sign In](https://github.com/login?return_to=%252Fmarkbsigler%252Fcontent): To facilitate user sign-in to GitHub accounts.
+- [GitHub Premium Support](https://github.com/premium-support): Promote GitHub Premium Support services for businesses needing 24/7 expert assistance.
+- [GitHub Sign In](https://github.com/login?return_to=https%253A%252F%252Fgithub.com%252Fmarkbsigler%252Fcontent): Facilitates user login to GitHub accounts.
+- [Moving to the Cloud](https://github.com/markbsigler/content/blob/master/Moving_To_The_Cloud-SEI-20180301MS.pdf): Hosting a PDF document about moving to the cloud.
+- [GitHub Team Overview](https://github.com/team): To promote GitHub Team as a collaborative software development platform with enhanced features for teams.
+- [Customer Success Stories](https://github.com/customer-stories): Showcase customer success stories using GitHub's development tools and platforms.
+- [GitHub Branch Management](https://github.com/markbsigler/content/branches): Manage branches of the GitHub repository 'content'.
+- [Code Review Tools](https://github.com/features/code-review): Facilitates code review processes and enhances collaboration among developers using GitHub's pull request features.
+- [DevOps Resources and Articles](https://github.com/resources/articles/devops): This webpage offers resources and articles related to DevOps practices and methodologies.
+- [Browse GitHub Topics](https://github.com/topics): Explore and browse various programming and software development topics popular on GitHub.
+- [GitHub Issues Management](https://github.com/markbsigler/content/issues): Manage and track issues for the 'content' repository on GitHub.
+- [Mark B. Sigler's Wiki](https://github.com/markbsigler/content/wiki): To provide information and resources related to Mark B. Sigler's work and projects on GitHub.
+- [Patent Document PDF](https://github.com/markbsigler/content/blob/master/PATENT_US9696971.pdf): This webpage hosts a PDF file of a patent document.
+- [Patent Drawings PDF](https://github.com/markbsigler/content/blob/master/Patent-Drawings.pdf): To provide access to a PDF document of patent drawings.
+- [Automate Your Workflows](https://github.com/features/actions): Promote GitHub Actions for automating software workflows and CI/CD processes.
+- [GitHub CI/CD Solutions](https://github.com/solutions/use-case/ci-cd): Promote GitHub's CI/CD solutions for building, testing, and deploying secure software.
+- [DataZen PDF Document](https://github.com/markbsigler/content/blob/master/20001009-DataZen-Press-ChoiceOne.pdf): Share a PDF document related to DataZen for public access.
+- [Fork Status Page](https://github.com/markbsigler/content/forks): Displays the status of forks in a GitHub repository.
+- [Sign Up for GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%252F%253Cuser-name%253E%252F%253Crepo-name%253E&source=header-repo&source_repo=markbsigler%252Fcontent): Facilitate the creation of a GitHub account for users.
+- [Commit History Overview](https://github.com/markbsigler/content/commits/master/): Showcase the commit history of a public GitHub repository.
+- [GitHub for Government Solutions](https://github.com/solutions/industry/government): Promote GitHub solutions for government agencies to enhance secure software development and collaboration.
+- [Industry Solutions Overview](https://github.com/solutions/industry): Showcase GitHub's industry-specific solutions to enhance efficiency and innovation across various sectors.
+- [GitHub Manufacturing Solutions](https://github.com/solutions/industry/manufacturing): Promote GitHub's AI-powered solutions for enhancing manufacturing efficiency and innovation.
+- [InfoWorld PDF Document](https://github.com/markbsigler/content/blob/master/BCN-19851028-InfoWorld.pdf): To provide access to a PDF document related to InfoWorld from 1985.
+- [GitHub Service Status](https://github.com/contact/report-content?content_url=https%253A%252F%252Fgithub.com%252Fmarkbsigler%252Fcontent&report=markbsigler+%2528user%2529): To inform users about the current status of GitHub services, particularly Pull Requests.
+- [Stargazers List](https://github.com/markbsigler/content/stargazers): Display a list of users who have starred the GitHub repository.
+- [APT AdWeek PDF](https://github.com/markbsigler/content/blob/master/19920413-APT-AdWeek.pdf): Access a PDF file related to APT published in AdWeek.
+- [Cloud Computing Whitepaper](https://github.com/markbsigler/content/blob/master/Cloud_Computing_Use_Cases_Whitepaper-4_0.pdf): Showcases a whitepaper on cloud computing use cases.
+- [GitHub Issues Overview](https://github.com/features/issues): Facilitates project planning and issue tracking for developers on GitHub.
+- [Repository Activity Overview](https://github.com/markbsigler/content/pulse): Tracks activity and insights for the GitHub repository 'content'.
+- [Automic Capgemini PDF](https://github.com/markbsigler/content/blob/master/Automic-Capgemini-AppSphere-2015.pdf): Share a PDF document related to Automic and Capgemini.
+- [Forrester Case Study PDF](https://github.com/markbsigler/content/blob/master/20121001-Forrester-Case_Study-CBA.pdf): This page hosts a PDF file of a Forrester case study on GitHub.
+- [Moving to the Cloud](https://github.com/markbsigler/content/blob/master/Moving_to_the_Cloud.pdf): Provide a PDF document about transitioning to cloud services.
+- [Developer Community Stories](https://github.com/readme): Amplifying developer community voices through stories and resources related to coding and accessibility.
+- [Software Security Resources](https://github.com/resources/articles/security): This webpage provides information on various security topics in software development.
+- [Curated Tech Collections](https://github.com/collections): This page showcases curated collections of tools and resources for various tech-related topics.
+- [GitHub Trending Repositories](https://github.com/trending): Displays the most trending repositories on GitHub, showcasing popular projects within the community.
+- [GitHub Copilot Overview](https://github.com/features/copilot): Introduce GitHub Copilot as an AI tool to enhance coding productivity and streamline the development process.
+- [GitHub Slides Repositories](https://github.com/topics/slides): A collection of GitHub repositories related to creating and managing slide presentations.
+- [GitHub Articles Repositories](https://github.com/topics/articles): List of public repositories related to articles on GitHub.
+- [Automate Software Workflows](https://github.com/markbsigler/content/actions): To provide information on automating software workflows using GitHub Actions.
+- [Executive Insights](https://github.com/solutions/executive-insights): This page offers insights and resources for enterprise leaders on using GitHub to manage security and productivity.
+- [Velocity Tool Chain Choices](https://github.com/markbsigler/content/blob/master/2014-Velocity-CD_Tool_Chain_Choices.pdf): Discusses tool chain choices for Velocity Continuous Delivery.
+- [World Coexistence Document](https://github.com/markbsigler/content/blob/master/2014-CA_World-Coexistence.pdf): Sharing a PDF document about world coexistence.
+- [GitHub Solutions Overview](https://github.com/solutions/use-case): Promote GitHub solutions for enhancing business workflows and secure software delivery.
+- [GitHub DevOps Solutions](https://github.com/solutions/use-case/devops): Promote GitHub's tools for enhancing DevOps collaboration and productivity.
+- [GitHub Features Overview](https://github.com/features): Showcase GitHub's features and tools for developers and organizations.
+- [Cloud Development Environments](https://github.com/features/codespaces): GitHub Codespaces offers cloud-based development environments for fast, secure coding and collaboration.
